@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+panorama_589CD935_544F_36E5_41D0_DB333EE18F4E.label = 8i80lgz-360-panorama-view-lake
+panorama_5FDC1285_544F_7B9A_41D3_C6A03B37E70E.label = k402fcz-a-laptop-on-a-table
+panorama_5FE306FB_544F_5B6E_41A4_9F27A073EECB.label = ape00s8-360-fort-pont-sf
